@@ -1,0 +1,45 @@
+.navbar{
+    background-image: linear-gradient(to right, #a517ba, #6f0eb5);
+}
+.navbar-nav {
+    justify-content: space-between;
+    margin-right: 30px;
+}
+.navbar-nav a{
+    color: #fff;
+    font-size: 18px;
+}
+.navbar-brand img {
+    height: 40px;
+}
+#navbar-bottom {
+    padding-top: 5%;
+    color: #fff;
+    background-image: linear-gradient(to right, #a517ba, #6f0eb5);
+}
+.promo-title {
+    /* font-size: 40px; */
+    font-size: 5 rem;
+    font-weight: 600;
+    padding-top: 25%;
+}
+.play-btn {
+    width: 45px;
+    margin: 20px;
+}
+.wave-img {
+    width: 100%;
+}
+.services {
+    margin-inline: 40px;
+}
+.services p{
+    text-align: justify;
+}
+.services-img {
+    height: 100px;
+    margin: 20px;
+}
+.trial {
+    font-size: 3.5rem;
+}
